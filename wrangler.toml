@@ -1,0 +1,7 @@
+name = "goofyahhweb"
+type = "javascript"
+compatibility_date = "2025-05-22"
+
+[build]
+upload.main = "./main.js"
+upload.dir = "./"
