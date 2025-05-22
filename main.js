@@ -2,9 +2,11 @@
 
 // List of random background GIF URLs
 const gifBackgrounds = [
-  'https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif',
-  'https://media.giphy.com/media/l0HlHJGHe6y4dM6N2/giphy.gif',
-  'https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif'
+  'https://media1.tenor.com/m/XqxmWb5zfjUAAAAd/meu.gif',
+    'https://media1.tenor.com/m/naKhDvCQUrgAAAAd/monkey-stare.gif',
+    'https://media1.tenor.com/m/wngK7umN-fAAAAAd/wrizz-monkey-monkey.gif',
+    'https://media1.tenor.com/m/hvh0ucb7o-4AAAAd/sonic-devil.gif',
+    'https://media1.tenor.com/m/z16iGt5S6aoAAAAC/cat-stare-catstare.gif'
 ];
 
 // Set a random GIF as background
