@@ -1,6 +1,11 @@
 name = "goofyahhweb"
 account_id = "a8498cd02cec702f01d300fc02cb48eb"
 compatibility_date = "2025-05-22"
+main = "worker.js"
+
+[vars]
+
+[durable_objects]
 
 [site]
 bucket = "./public"
