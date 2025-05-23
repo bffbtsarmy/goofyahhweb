@@ -1,7 +1,8 @@
-name = "goofyahhweb"
+name = "login-site"
 type = "javascript"
+account_id = "a8498cd02cec702f01d300fc02cb48eb"
 compatibility_date = "2025-05-22"
 
-[build]
-upload.main = "./main.js"
-upload.dir = "./"
+[site]
+bucket = "./"
+entry-point = "."
