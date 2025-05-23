@@ -1,9 +1,7 @@
 name = "goofyahhweb"
-type = "javascript"
+main = "worker.js"
 account_id = "a8498cd02cec702f01d300fc02cb48eb"
 compatibility_date = "2025-05-22"
-main = "worker.js"
 
 [site]
 bucket = "./"
-entry-point = "."
